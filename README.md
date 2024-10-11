@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  0503mohan@gmail.com...
+- spotknack mentee
 
 <!---
 mohanraj172/mohanraj172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
